@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Maze 3D 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.maze3DActivity
+bundle_id = net.gcompris.maze3DActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
